@@ -1,75 +1,86 @@
 # followed_authors.yaml
-followed_authors:
-  - name: Andrew Persily
-    orcid: "0000-0002-9542-3318"
+followed_authors:followed_authors:
+  - name: Tianzhen Hong
+    orcid: "0000-0002-3035-2502"
     names:
-      - Andrew Persily
-      - A. Persily
+      - Tianzhen Hong
+      - T. Hong
 
-  - name: Shin-ichi Tanabe
-    orcid: "0000-0002-2947-1645"
+  - name: Wei Wang
+    orcid: "0000-0001-9352-6748"
     names:
-      - Shin-ichi Tanabe
-      - S.I Tanabe
+      - Wei Wang
+      - W. Wang
 
-  - name: Philomena Bluyssen
-    orcid: "0000-0002-5732-5362"
+  - name: Benjamin Bechtel
+    orcid: "0000-0003-2351-4480"
     names:
-      - Philomena Bluyssen
-      - Philomena M. Bluyssen
+      - Benjamin Bechtel
+      - B. Bechtel
 
-  - name: Richard de Dear
-    orcid: "0000-0002-3414-290X"
+  - name: Matthias Demuzere
+    orcid: "0000-0003-1304-7353"
     names:
-      - Richard de Dear
+      - Matthias Demuzere
+      - M. Demuzere
 
-  - name: Pawel Wargocki
-    orcid: "0000-0003-3865-3560"
+  - name: Stewart Barr
+    orcid: "0000-0001-8674-449X"
     names:
-      - Pawel Wargocki
-      - P. Wargocki
+      - Stewart Barr
+      - S. Barr
 
-  - name: Dusan Licina
-    orcid: "0000-0001-5945-0872"
+  - name: Darren Robinson
+    orcid: "0000-0001-6414-5294"
     names:
-      - Dusan Licina
+      - Darren Robinson
+      - D. Robinson
 
-  - name: Federico Tartarini
-    orcid: "0000-0002-8739-5062"
+  - name: Christoph Reinhart
+    orcid: "0000-0002-0344-7043"
     names:
-      - Federico Tartarini
+      - Christoph Reinhart
+      - C. Reinhart
 
-  - name: Er Ding
-    orcid: "0000-0002-4688-0950"
+  - name: Ali Malkawi
+    orcid: "0000-0002-4995-8478"
     names:
-      - Er Ding
-      - E. Ding
+      - Ali Malkawi
+      - A. Malkawi
 
-  - name: Qirui Huang
-    orcid: "0000-0002-8284-0032"
+  - name: Andreas Matzarakis
+    orcid: "0000-0002-3117-8000"
     names:
-      - Qirui Huang
-      - Q. Huang
+      - Andreas Matzarakis
+      - A. Matzarakis
 
-  - name: Thomas Parkinson
-    orcid: "0000-0002-0088-8754"
+  - name: J. Alstan Jakubiec
+    orcid: "0000-0001-8579-8019"
     names:
-      - Thomas Parkinson
-      - T. Parkinson
+      - Alstan Jakubiec
+      - J. Alstan Jakubiec
+      - A. Jakubiec
 
-  - name: Ana Paula Melo
-    orcid: "0000-0002-0815-7964"
+  - name: Alberto Martilli
+    orcid: "0000-0001-7281-8653"
     names:
-      - Ana Paula Melo
-      - Ana P. Melo
-      - A.P. Melo
+      - Alberto Martilli
+      - A. Martilli
+
+  - name: Dev Millstein
+    orcid: "0000-0003-0157-8822"
+    names:
+      - Dev Millstein
+      - D. Millstein
 
   - name: Da Yan
     orcid: "0000-0003-2399-723X"
     names:
       - Da Yan
+      - D. Yan
 
-  - name: Dirk Müller
-    orcid: "0000-0002-6106-6607"
+  - name: Zhonghua Gou
+    orcid: "0000-0002-3477-8219"
     names:
-      - Dirk Müller
+      - Zhonghua Gou
+      - Z. Gou
