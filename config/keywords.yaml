@@ -1,13 +1,51 @@
 # ./config/keywords.yaml
 keywords:
-  - indoor environmental quality
-  - IEQ
-  - IEQ monitoring
-  - thermal comfort
-  - indoor air quality
-  - IAQ
-  - user behavior modelling
-  - CO2
-  - CO2 distribution
-  - occupancy detection
-  - sensor
+  - urban building energy modeling
+  - UBEM
+  - building energy modeling
+  - building energy simulation
+  - building energy consumption
+  - building energy demand
+  - building energy intensity
+  - EUI
+  - urban energy modeling
+  - city scale energy modeling
+  - archetype building modeling
+  - prototype building
+  - climate change
+  - climate change impact on build
+  - urban thermal environment
+  - urban microclimate
+  - local climate zone
+  - LCZ
+  - urban morphology
+  - urban form
+  - urban structure
+  - urban density
+  - urban climate
+  - building performance
+  - building thermal performance
+  - cooling demand
+  - heating demand
+  - cooling dominated transition
+  - building energy retrofit
+  - energy efficiency
+  - building stock modeling
+  - urban building stock
+  - GIS based urban modeling
+  - spatial analysis
+  - spatial heterogeneity
+  - energy consumption
+  - carbon emissions
+  - urban sustainability
+  - sustainable buildings
+  - climate resilient buildings
+  - climate adaptation
+  - urban climate adaptation
+  - urban planning
+  - urban environmental modeling
+  - machine learning
+  - explainable machine learning
+  - sensitivity analysis
+  - feature importance
+  - urban environmental simulation
